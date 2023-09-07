@@ -1,8 +1,8 @@
 package by.aleksandrphilimonov.store.entities;
 
+import by.aleksandrphilimonov.api.domain.TestedUserStatus;
 import lombok.*;
 import lombok.experimental.FieldDefaults;
-import may.code.api.domains.TestedUserStatus;
 
 import javax.persistence.*;
 import java.time.Instant;
