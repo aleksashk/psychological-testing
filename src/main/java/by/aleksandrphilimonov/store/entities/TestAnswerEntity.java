@@ -1,5 +1,6 @@
 package by.aleksandrphilimonov.store.entities;
 
+import by.aleksandrphilimonov.api.domain.TestedUserAnswer;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import lombok.*;
 import lombok.experimental.FieldDefaults;
