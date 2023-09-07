@@ -1,4 +1,4 @@
-package by.aleksandrphilimonov.exceptions;
+package by.aleksandrphilimonov.api.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
