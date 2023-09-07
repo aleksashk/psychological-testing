@@ -1,4 +1,4 @@
 package by.aleksandrphilimonov.store.repositories;
 
-public interface TestPeopleRepository {
+public interface TestUserRepository {
 }
